@@ -1,0 +1,267 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>www.Technophile.com</title>
+</head>
+
+<body>
+    <!-- Header -->
+    <section id="header">
+        <div class="header container">
+            <div class="nav-bar">
+                <div class="brand">
+                    <a href="#hero">
+                        <h1><span>AI</span>Things.<span>c</span>om</h1>
+                    </a>
+                </div>
+                <div class="nav-list">
+                    <div class="hamburger">
+                        <div class="bar"></div>
+                    </div>
+                    <ul>
+                        <li><a href="#hero" data-after="Home">Home</a></li>
+                        <li><a href="#services" data-after="Service">Services</a></li>
+                        <li><a href="#projects" data-after="Projects">Projects</a></li>
+                        <li><a href="#about" data-after="About">About</a></li>
+                        <li><a href="#contact" data-after="Contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Header -->
+
+    <!--Hero Section-->
+    <section id="hero">
+        <div class="container">
+            <div>
+                <h1> Hello...!<span></span> </h1>
+                <h1>My Name is<span></span></h1>
+                <h1>Lokesh<span></span></h1>
+
+                <a href="#" type="button" class="cta">Portfolio</a>
+            </div>
+        </div>
+    </section>
+
+    <!--End hero section-->
+
+    <!--Service section-->
+    <section id="services">
+        <div class="services container">
+            <div class="service-top">
+                <h1 class="section-title">Serv<span>i</span>ces</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                    sed do eiusmod tempor incididunt ut labor et dolore magna aliqua.
+                    Ut enim ad minim veniam, quis nostrud exercitation . </p>
+            </div>
+            <div class="service-bottom">
+                <div class="service-item">
+                    <div class="icon"> <img src="https://img.icons8.com/bubbles/100/000000/services.png" />
+                    </div>
+                    <h2> Web Design</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                        sed do eiusmod tempor incididunt ut labor et dolore magna aliqua.
+                    </p>
+                </div>
+                <div class="service-item">
+                    <div class="icon"> <img src="https://img.icons8.com/bubbles/100/000000/services.png" />
+                    </div>
+                    <h2> Chatbot</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                        sed do eiusmod tempor incididunt ut labor et dolore magna aliqua.
+                    </p>
+                </div>
+                <div class="service-item">
+                    <div class="icon"> <img src="https://img.icons8.com/bubbles/100/000000/services.png" />
+                    </div>
+                    <h2> Deep Fake</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                        sed do eiusmod tempor incididunt ut labor et dolore magna aliqua.
+                    </p>
+                </div>
+                <div class="service-item">
+                    <div class="icon"> <img src="https://img.icons8.com/bubbles/100/000000/services.png" />
+                    </div>
+                    <h2> Spam mail</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                        sed do eiusmod tempor incididunt ut labor et dolore magna aliqua.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <hr>
+    <hr>
+
+
+    <!--End hero section-->
+    <!--Project section-->
+    <section id="projects">
+        <div class="projects container">
+            <div class="projects-header">
+                <h1 class="section-title">Recent <span>Projects</span></h1>
+            </div>
+            <div class="all-projects">
+                <div class="project-item">
+                    <div class="project-info">
+                        <h1>Project 1 </h1>
+                        <h2>Web Development Project </h2>
+                        <p>Nowadays the first thing that someone does when they create a new business for trading goods
+                            is to convert their commerce to e-commerce.
+                        </p>
+                    </div>
+                    <div class="project-img">
+                        <img src="webD.jpg" alt="img">
+                    </div>
+                </div>
+                <div class="project-item">
+                    <div class="project-info">
+                        <h1>Project 2</h1>
+                        <h2> Machine Learning Project</h2>
+                        <p>Are you a Machine Learning developer? Do you love to play with different Machine Learning
+                            Algorithms? This project is perfect for you.</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="machinelearning.jpg" alt="img">
+                    </div>
+                </div>
+                <div class="project-item">
+                    <div class="project-info">
+                        <h1>Project 3</h1>
+                        <h2>Cloud Project</h2>
+                        <p>If you're looking for a project to help you get started with cloud computing, look no
+                            further. !</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="cloud.jpg" alt="img">
+                    </div>
+                </div>
+                <div class="project-item">
+                    <div class="project-info">
+                        <h1>Project 4</h1>
+                        <h2>C++ Project</h2>
+                        <p>The maximum limit of Unsigned Long Int in C/C++ is 18446744073709551615, a 20 digit number.
+
+                        </p>
+                    </div>
+                    <div class="project-img">
+                        <img src="CPP.avif" alt="img">
+                    </div>
+                </div>
+                <div class="project-item">
+                    <div class="project-info">
+                        <h1>Project 5</h1>
+                        <h2>Phyton Project</h2>
+                        <p>Do you want to see the power of AI without doing any actual ML/DL? If yes, then you are
+                            surely
+                            .</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="Python.jpg" alt="img">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--End Project section-->
+    <hr>
+    <hr>
+    <!-- About Section -->
+    <section id="about">
+        <div class="about container">
+            <div class="col-left">
+                <div class="about-img">
+                    <img src="about1.jpeg" alt="img">
+                </div>
+            </div>
+            <div class="col-right">
+                <h1 class="section-title">About <span>me</span></h1>
+                <h2>Professional Programmer and AI Engineer</h2>
+                <p>“I've was worked in Artifical engineering for my entire 15-year career, and my commitment to critical
+                    thinking and attention to detail have gotten me to where I am today: a senior software engineer for
+                    First Technology. I have a passion for processes, and I'm an experienced team leader who typically
+                    manages 10 developers at any given time.Today, I am currently served as a CEO of my own Startup
+                    Called "TheAIthing".
+                    Our Company is mainly works on the Project based on Machine Learning and AI Architecture. The main
+                    motive of our company is to represent INDIA's AI technology at Internationl Level. My career goal is
+                    to move into management as a CTO, and I know this role would help me hone my leadership skills.”</p>
+                <a href="#" class="cta">Download Resume</a>
+            </div>
+        </div>
+    </section>
+    <!-- End About Section -->
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="contact container">
+            <div>
+                <h1 class="section-title">Contact <span>info</span></h1>
+            </div>
+            <div class="contact-items">
+                <div class="contact-item">
+                    <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/phone.png" /></div>
+                    <div class="contact-info">
+                        <h1>Phone</h1>
+                        <h2>+91 7387795567</h2>
+
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/new-post.png" /></div>
+                    <div class="contact-info">
+                        <h1>Email</h1>
+                        <h2>bagmarelokesh2002gmail.com</h2>
+
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/map-marker.png" /></div>
+                    <div class="contact-info">
+                        <h1>Address</h1>
+                        <h2>Diamond Lane, Civil lines, Nagpur-440008</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Contact Section -->
+
+    <!-- Footer -->
+    <section id="footer">
+        <div class="footer container">
+            <div class="brand">
+                <h1><span>L</span>okesh &#128526; <span>B</span>agmare</h1>
+            </div>
+            <h2>Your Complete Coding Solution</h2>
+            <div class="social-icon">
+                <div class="social-item">
+                    <a
+                        href="https://www.facebook.com/campaign/landing.php?campaign_id=14884913640&extra_1=s%7Cc%7C550525806189%7Ce%7Cfacebook%20login%7C&placement=&creative=550525806189&keyword=facebook%20login&partner_id=googlesem&extra_2=campaignid%3D14884913640%26adgroupid%3D128696221912%26matchtype%3De%26network%3Dg%26source%3Dnotmobile%26search_or_content%3Ds%26device%3Dc%26devicemodel%3D%26adposition%3D%26target%3D%26targetid%3Dkwd-1409285535%26loc_physical_ms%3D1007788%26loc_interest_ms%3D%26feeditemid%3D%26param1%3D%26param2%3D&gclid=Cj0KCQiAieWOBhCYARIsANcOw0w6SreXT755Gvpcm96oplYnoRNLGF3bRWwGNV7Uug9oUMv4G_v2HUMaAg_bEALw_wcB"><img
+                            src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" /></a>
+                </div>
+                <div class="social-item">
+                    <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" /></a>
+                </div>
+                <div class="social-item">
+                    <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/twitter.png" /></a>
+                </div>
+                <div class="social-item">
+                    <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/whatsapp.png" /></a>
+                </div>
+            </div>
+            <p>Copyright © 2022 Lokesh. All rights reserved</p>
+        </div>
+    </section>
+    <!-- End Footer -->
+
+
+<script src="./app.js"></script>
+
+</body>
+
+</html>
